@@ -1,0 +1,12 @@
+div.overlay{
+    color: white;
+    left: 30%;
+    position: fixed;
+    top: 30%;
+    width: 60%;
+}
+
+canvas{
+    position: fixed;
+    z-index: -1;
+}
