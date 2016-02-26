@@ -5,8 +5,6 @@ body {
     line-height: 1.5;
 }
 
-
-
 #bg {
     position:fixed; 
     top:-50%; 
@@ -14,6 +12,7 @@ body {
     width:200%; 
     height:200%;
 }
+
 #bg img {
     position:absolute; 
     top:0; 
@@ -40,13 +39,18 @@ body {
     margin-left: 50px;
 }
 
-.photo_left{
+.left_photo {
     display: inline-block;
-    width: 60%;
+    width: 30%;
+    margin: 1%;
+    vertical-align: top;
+    padding-top: 2%;
 }
 
+div.left_photo img{
+    width: 100%;
+}
 .resume{
-    
     display: inline-block;
     width: 60%;
 }
