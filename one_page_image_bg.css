@@ -41,20 +41,30 @@ body {
 
 .left_photo {
     display: inline-block;
-    width: 30%;
+    width: 25%;
     margin: 1%;
     vertical-align: top;
     padding-top: 2%;
 }
 
 div.left_photo img{
-    width: 100%;
+    width: 80%;
+    margin-left: auto;
 }
 .resume{
     display: inline-block;
     width: 60%;
 }
 
+.links {
+    /*position: absolute;*/
+    margin-top:1em;
+}
+
+div.links img{
+    width:15%;  
+    margin-right: 1em;  
+}
 
 /** {
     margin: 0;
