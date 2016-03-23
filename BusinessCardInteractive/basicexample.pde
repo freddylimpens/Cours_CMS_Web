@@ -52,6 +52,6 @@ void mouseMoved() {
 }
 
 void mousePressed() {
-  saveFrame("img-####.jpg"); 
+  //saveFrame("img-####.jpg"); 
 }
 

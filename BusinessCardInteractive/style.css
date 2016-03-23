@@ -4,6 +4,7 @@ div.overlay{
     position: fixed;
     top: 30%;
     width: 60%;
+    pointer-events: none;
 }
 
 canvas{
